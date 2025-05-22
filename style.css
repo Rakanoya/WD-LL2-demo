@@ -2,3 +2,8 @@ html {
   height: 100%;
   width: 100%;
 }
+
+/* This class makes the hero section fill the whole screen */
+.full-viewport-hero {
+  min-height: 100vh; /* 100% of the viewport height */
+}
